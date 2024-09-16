@@ -1,0 +1,4 @@
+- Hello my name is Mert Ali Polat
+- I am a 2nd year student of management information systems at ahmet yesevi university
+- This is my e-mail you can use to contact me
+- 
